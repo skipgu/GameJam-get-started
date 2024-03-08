@@ -12,7 +12,10 @@ Game Jam 2024**! In this game jam, you get to make a game based on a certain
 theme in just a few days! After submitting your game there will be a panel of
 judges who will vote on the games. This event is free and **no experience** in
 game development is needed! After all, this repository is here to help you get
-started. Read more about the game jam on the [itch.io page][itch.io page].
+started. 
+
+> [!IMPORTANT]  
+> Read more about the game jam on the [itch.io page][itch.io page].
 
 ### What You Will Learn
 
@@ -25,15 +28,19 @@ techniques. The following are covered:
   - Introduction to Unreal Engine Part 2 (Blueprints)
 - YAHAHA Game Engine
 
+> [!NOTE]  
+> The material is courtesy of Natasha Bianca Mangan (Chalmers University) and
+> the SKIP community.
+
 ### Still unsure?
 
 Don't hesitate to reach out to us. We are here to help you get started and
 answer any questions you may have. We are here to help you succeed. :rocket:
-[*skip@gota.gu.se*](mailto:skip@gota.gu.se),
-[Instagram][Instagram],
+[*skip@gota.gu.se*](mailto:skip@gota.gu.se), [Instagram][Instagram],
 [Discord][Discord]
 
-For general information  about SKIP, please visit [*skipgu.org*][skipgu.org].
+> [!TIP]
+> For general information  about SKIP, please visit [*skipgu.org*][skipgu.org].
 
 <!-- LINKS -->
 [itch.io page]: https://itch.io/jam/march-game-jam-2024
